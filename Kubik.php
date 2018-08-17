@@ -8,12 +8,12 @@ require_once("sdata-modules.php");
  * @Last Modified time: 2018-08-17 15:13:34
 */
 ##############################################################################################################
-$config['deviceCode'] 		= '3551230xxxxxxx';
-$config['tk'] 				= 'ACGmNhoexxxxxx';
-$config['token'] 			= '35a7oDTxxxxxxx';
-$config['uuid'] 			= 'abdacad4xxxxxx4';
-$config['sign'] 			= '12988158bxxxxxx';
-$config['android_id'] 		= 'a28a65fbbxxxxxx';
+$config['deviceCode'] 		= '866764039931872';
+$config['tk'] 				= 'ACFAcWxFQ5RKcKnD9bHHrEbD3SexbmmAvVxxdHRodw';
+$config['token'] 			= '660e6YvGCT20xvhOYL52ynpVH2tflxD7rRmlJOCK8JS3445ykV5c7n-WTVhKfXojm3_rkmP6zgHStUg';
+$config['uuid'] 			= '72bae9fd3fa44aa08f04fd9356a92e7b';
+$config['sign'] 			= '099d30d8bd15a2c15be9b35015f18266';
+$config['android_id'] 		= 'beeb829333161b8f';
 ##############################################################################################################
 for ($x=0; $x <1; $x++) { 
 	$url 	= array(); 
