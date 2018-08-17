@@ -47,7 +47,7 @@ for ($x=0; $x <1; $x++) {
 			'note' 	=> $rnd, 
 		);
 		$header[] = array(
-			'post' => 'OSVersion=8.0.0&android_channel=google&android_id='.$config['android_id'].'&content_id='.$id.'&content_type=1&deviceCode='.$config['deviceCode'].'&device_brand=samsung&device_ip=114.124.239.'.rand(0,255).'&device_version=SM-A730F&dtu=001&lat=&lon=&network=wifi&pack_channel=google&time='.$timeIn30Minutes.'&tk='.$config['tk'].'&token='.$config['token'].'&uuid='.$config['uuid'].'&version=10047&versionName=1.4.7&sign='.$config['sign'], 
+			'post' => 'OSVersion=8.0.0&android_channel=google&android_id='.$config['beeb829333161b8f'].'&content_id='.$id.'&content_type=1&deviceCode='.$config['866764039931872'].'&device_brand=samsung&device_ip=114.124.239.'.rand(0,255).'&device_version=SM-A730F&dtu=001&lat=&lon=&network=wifi&pack_channel=google&time='.$timeIn30Minutes.'&tk='.$config['ACFAcWxFQ5RKcKnD9bHHrEbD3SexbmmAvVxxdHRodw'].'&token='.$config['token'].'&uuid='.$config['72bae9fd3fa44aa08f04fd9356a92e7b'].'&version=10047&versionName=1.4.7&sign='.$config['f7e2b1dbc92b29e9df9efacad440234a'], 
 		);
 		$respons = $sdata->sdata($url , $header); 
 		unset($url);unset($header);
